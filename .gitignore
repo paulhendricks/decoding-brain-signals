@@ -55,3 +55,4 @@ data/ecog_train_with_labels.csv.zip
 .idea/
 .Rproj.user
 decoding-brain-signals.Rproj
+.Rhistory
